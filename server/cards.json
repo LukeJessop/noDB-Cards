@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "price": 1,
+        "color": "white"
+    },
+    {
+        "id":2,
+        "price": 2,
+        "color": "white"
+    },
+    {
+        "id":3,
+        "price": 5,
+        "color": "white"
+    },
+    {
+        "id":4,
+        "price": 10,
+        "color": "white"
+    },
+    {
+        "id":5,
+        "price": 20,
+        "color": "lightBlue"
+    },
+    {
+        "id":6,
+        "price": 30,
+        "color": "lightBlue"
+    },
+    {
+        "id":7,
+        "price": 40,
+        "color": "lightBlue"
+    },
+    {
+        "id":8,
+        "price": 50,
+        "color": "Blue"
+    },
+    {
+        "id":9,
+        "price": 70,
+        "color": "Blue"
+    },
+    {
+        "id":10,
+        "price": 100,
+        "color": "Red"
+    },
+    {
+        "id":11,
+        "price": 150,
+        "color": "Red"
+    },
+    {
+        "id":12,
+        "price": 1000,
+        "color": "Yellow"
+    }
+]
